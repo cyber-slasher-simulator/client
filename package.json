@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/cyber-slasher-simulator/client/issues"
   },
-  "homepage": "https://github.com/cyber-slasher-simulator/client#readme"
+  "homepage": "https://github.com/cyber-slasher-simulator/client#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "phaser": "^3.17.0"
+  }
 }
